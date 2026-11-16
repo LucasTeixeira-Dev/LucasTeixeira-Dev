@@ -1,6 +1,6 @@
 # Olá, eu sou o Lucas Teixeira 👋
 
-**Analista de Sistemas** durante 4 anos, hoje desenvolvedor freelancer no momento, SP. Trabalho entre **IA aplicada e automação**, **ERP (TOTVS Protheus)** e **desenvolvimento web e mobile**.
+**Desenvolvedor freelancer** em São Paulo, SP, com 4 anos de experiência como **Analista de Sistemas**. Trabalho entre **IA aplicada e automação**, **ERP (TOTVS Protheus)** e **desenvolvimento web e mobile**.
 
 ## O que eu faço
 
